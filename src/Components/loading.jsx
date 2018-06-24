@@ -1,0 +1,5 @@
+import React from 'react';
+
+export default _=>(
+    <h1>Loading...</h1>
+);
